@@ -15,5 +15,13 @@
     ],
     "aLoots": [],
     "strType": "trigger"
+  },
+  {
+    "strName": "CGEncLifeEventTest",
+    "aCOs": [
+      "CGEncLifeEventTestIntro=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "lifeevent"
   }
 ]
