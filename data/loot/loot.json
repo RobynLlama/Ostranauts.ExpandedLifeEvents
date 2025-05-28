@@ -1,0 +1,19 @@
+[
+  {
+    "strName": "CTEncLifeEventNothing",
+    "aCOs": [
+      "TUpAge=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "trigger"
+  },
+  {
+    "strName": "CTEncLifeEventTestOptionB",
+    "aCOs": [
+      "TUpAge=1.0x1",
+      "TUpIsStrong=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "trigger"
+  }
+]

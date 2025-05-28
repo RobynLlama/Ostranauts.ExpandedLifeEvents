@@ -1,0 +1,55 @@
+[
+  {
+    "strName": "CGEncLifeEventTestIntro",
+    "strTitle": "King Incognito",
+    "strDesc": "Oh wow, three whole options to choose from? This is so cool!",
+    "aInverse": [
+      "CGEncLifeEventTestOptionA",
+      "CGEncLifeEventTestOptionB",
+      "CGEncLifeEventTestOptionC"
+    ],
+    "fDuration": 0.0,
+    "LootCTsUs": null,
+    "LootCondsUs": null,
+    "strThemType": "Self"
+  },
+  {
+    "strName": "CGEncLifeEventTestOptionA",
+    "strTitle": "Get Money",
+    "strDesc": "You work hard for your money",
+    "aInverse": [],
+    "fDuration": 0.0,
+    "LootCTsUs": "CTEncLifeEventNothing",
+    "aSocialNew": [
+      ""
+    ],
+    "strThemType": "Self"
+  },
+  {
+    "strName": "CGEncLifeEventTestOptionB",
+    "strTitle": "Get RIPPED",
+    "strDesc": "You absolutely SHRED that gym! YES! PUSH IT!",
+    "aInverse": [],
+    "fDuration": 0.0,
+    "LootCTsUs": "CTEncLifeEventTestOptionB",
+    "aSocialNew": [
+      ""
+    ],
+    "strThemType": "Self"
+  },
+  {
+    "strName": "CGEncLifeEventTestOptionC",
+    "strTitle": "Get Friends",
+    "strDesc": "You meet some people, you make some friends.",
+    "aInverse": [],
+    "fDuration": 0.0,
+    "LootCTsUs": "CTEncLifeEventNothing",
+    "aSocialNew": [
+      "CGEncRandomAdultFriend",
+      "CGEncRandomAdultFriend",
+      "CGEncRandomAdultContact",
+      "CGEncRandomAdultContact"
+    ],
+    "strThemType": "Self"
+  }
+]

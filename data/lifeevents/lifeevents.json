@@ -1,0 +1,35 @@
+[
+  {
+    "strName": "CGEncLifeEventTestIntro",
+    "strInteraction": "CGEncLifeEventTestIntro",
+    "fCashRewardMin": 0.0,
+    "fStartATCRange": 0.0,
+    "strStartATC": "",
+    "strShipRewards": ""
+  },
+  {
+    "strName": "CGEncLifeEventTestOptionA",
+    "strInteraction": "CGEncLifeEventTestOptionA",
+    "fCashRewardMin": 500.0,
+    "fCashRewardMax": 900.0,
+    "fStartATCRange": 0.0,
+    "strStartATC": "",
+    "strShipRewards": ""
+  },
+  {
+    "strName": "CGEncLifeEventTestOptionB",
+    "strInteraction": "CGEncLifeEventTestOptionB",
+    "fCashRewardMin": 0.0,
+    "fStartATCRange": 0.0,
+    "strStartATC": "",
+    "strShipRewards": ""
+  },
+  {
+    "strName": "CGEncLifeEventTestOptionC",
+    "strInteraction": "CGEncLifeEventTestOptionC",
+    "fCashRewardMin": 0.0,
+    "fStartATCRange": 0.0,
+    "strStartATC": "",
+    "strShipRewards": ""
+  }
+]
