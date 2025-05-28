@@ -1,7 +1,7 @@
 [
   {
     "strName": "CGEncLifeEventTestIntro",
-    "strTitle": "King Incognito",
+    "strTitle": "Cool Life Event",
     "strDesc": "Oh wow, three whole options to choose from? This is so cool!",
     "aInverse": [
       "CGEncLifeEventTestOptionA",
@@ -9,8 +9,6 @@
       "CGEncLifeEventTestOptionC"
     ],
     "fDuration": 0.0,
-    "LootCTsUs": null,
-    "LootCondsUs": null,
     "strThemType": "Self"
   },
   {
