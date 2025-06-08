@@ -17,7 +17,7 @@
     "strType": "trigger"
   },
   {
-    "strName": "CGEncLifeEventTest",
+    "strName": "GCEncShipbreakEvent",
     "aCOs": [
       "CGEncLifeEventTestIntro=1.0x1"
     ],
